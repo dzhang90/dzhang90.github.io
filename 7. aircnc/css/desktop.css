@@ -1,0 +1,101 @@
+/*
+ * Desktop
+*/
+
+.column {
+  float: left;
+}
+
+.container {
+  width: 1060px;
+  margin: 0 auto;
+}
+
+section.profile {
+  width: 60%;
+  padding: 45px 0 45px 0;
+  height: 200px;
+}
+
+section.profile:after {
+  content: "";
+  font-size: 110px;
+  border-right: 1px solid #DCE0E0;
+}
+
+section.ownerDetails {
+  margin: 0;
+  width: 20%;
+}
+
+section.petDetails {
+  width: 80%;
+  text-align: left;
+  margin: 0px auto 0 auto;
+}
+
+aside.column {
+  width: 100px;
+}
+
+section.booking {
+  padding: 40px 0 0 50px;
+}
+
+.button {
+  width: 275px;
+}
+
+section.infoContainer {
+  background: #F5F5F5;
+  width: 1060px;
+}
+
+section.about {
+  width: 665px;
+  margin: 0;
+}
+
+h3.email {
+  text-align: left;
+
+}
+
+section.care {
+  width: 665px;
+  height: 130px;
+}
+
+section.title {
+  width: 170px;
+}
+
+section.column1 {
+  width: 220px;
+}
+
+section.column2 {
+  width: 230px;
+}
+
+section.games {
+  width: 665px;
+  height: 130px;
+}
+
+section.photos {
+  width: 665px;
+  padding: 28px 0 80px 0;
+}
+
+section.photos img {
+  width: 200px;
+  height: 300px;
+  margin: 0 20px 0 0;
+}
+
+section.photos img.lastPhoto {
+  margin: 0;
+}
+
+
